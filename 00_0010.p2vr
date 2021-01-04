@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig version="6.1.10" rev="18007">
+  <panorama>
+    <id>node1</id>
+    <input>
+      <patch/>
+      <filename>C:\Users\novos\work\SaschaMartin\Render\00_0010.png</filename>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata>
+      <capturedatetime>2021-01-04T15:20:43</capturedatetime>
+    </userdata>
+    <floorplans/>
+    <hotspots/>
+    <output>
+      <htmlcss>
+        <html>
+          <enabled>1</enabled>
+          <filename>C:/Users/novos/Documents/GitHub/sascha/index.html</filename>
+          <values>
+            <value id="css"></value>
+            <value id="gginfo">false</value>
+            <value id="htmltitle">$(upt)</value>
+            <value id="jsxml">false</value>
+            <value id="parseanchor">false</value>
+          </values>
+        </html>
+        <facequality/>
+        <transition>
+          <zoomafterinfov>90</zoomafterinfov>
+          <zoomafteroutfov>20</zoomafteroutfov>
+        </transition>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition/>
+        <hotspottext/>
+        <hotspotstyle/>
+        <webvr/>
+        <tilesize>2048</tilesize>
+        <filename>C:/Users/novos/Documents/GitHub/sascha/pano.xml</filename>
+        <skinfile>cardboard.ggsk</skinfile>
+      </htmlcss>
+    </output>
+    <streetview/>
+    <streetviewproject/>
+    <sounds/>
+    <animation>
+      <title>Animation01</title>
+    </animation>
+  </panorama>
+</pano2vrconfig>
