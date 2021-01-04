@@ -17,6 +17,8 @@
   <hotspots wordwrap="1" width="180" height="20">
     <label textcolor="0x000000" wordwrap="1" enabled="1" backgroundalpha="1" bordercolor="0x000000" textalpha="1" width="180" borderalpha="1" height="20" borderradius="1" background="1" backgroundcolor="0xffffff" border="1"/>
     <polystyle backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+    <hotspot skinid="ht_url" title="Gutschein" id="Point01" target="_blank" pan="-358.31" description="" tilt="-18.47" url="pdf/Gutschein.pdf"/>
+    <hotspot skinid="ht_video_file" title="" id="Point02" target="" pan="-359.65" description="" tilt="-6.12" url="media/St3hpb-1.m4v"/>
   </hotspots>
   <media/>
   <transition type="crossdissolve" softedge="0" zoomfov="20" enabled="1" zoomafteroutfov="20" zoomout="0" zoomin="0" zoomspeed="2" zoomafterinfov="90" blendcolor="0x000000" blendtime="1" zoomoutpause="1"/>
